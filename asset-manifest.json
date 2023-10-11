@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ccruzpersonalportfolio/static/css/main.461f1144.css",
+    "main.js": "/ccruzpersonalportfolio/static/js/main.ea3b1778.js",
+    "static/media/empset.png": "/ccruzpersonalportfolio/static/media/empset.b16feb6764a570f27fd2.png",
+    "static/media/embedded.png": "/ccruzpersonalportfolio/static/media/embedded.846b2e79514caa75fecd.png",
+    "static/media/inhouse.png": "/ccruzpersonalportfolio/static/media/inhouse.3d9d35dcc9d56592c82a.png",
+    "static/media/telco.png": "/ccruzpersonalportfolio/static/media/telco.d215fefc799d631d3f4a.png",
+    "static/media/csv.png": "/ccruzpersonalportfolio/static/media/csv.5fddad341a1c9f7009c3.png",
+    "index.html": "/ccruzpersonalportfolio/index.html",
+    "main.461f1144.css.map": "/ccruzpersonalportfolio/static/css/main.461f1144.css.map",
+    "main.ea3b1778.js.map": "/ccruzpersonalportfolio/static/js/main.ea3b1778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.461f1144.css",
+    "static/js/main.ea3b1778.js"
+  ]
+}
