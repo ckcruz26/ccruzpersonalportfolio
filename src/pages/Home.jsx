@@ -9,7 +9,7 @@ function Home() {
       <div className="about">
         <h2>Hello! My name is Christian</h2>
         <div className="prompt">
-          <p>A software engineer residing in the Philippines, for any help and concerns please see my details.</p>
+          <p>A Software Engineer residing in the Philippines, for any help and concerns please see my details.</p>
           <LinkedIn />
           <Email />
           <GitHub />
@@ -20,16 +20,37 @@ function Home() {
         <Card className="list">
           <ListGroup variant="flush">
             <ListGroup.Item className="item">
-              <h2>Web Development</h2>
-              <span>HTML, CSS, Javascript, PHP, ReactJS, MongooseJS, ExpressJS, NodeJS and Bootstrap</span>
+              <h2>Programming and Scripting Language </h2>
+              <span>C/C++, Java, C#, .NET, Bash, PowerShell, VBScript and VBA</span>
             </ListGroup.Item>
             <ListGroup.Item className="item">
-              <h2>Programming and Scripting Languages</h2>
-              <span>C/C++, Java, C#, .NET, Bash, Powershell and VBA</span>
+              <h2>Web Development</h2>
+              <span>HTML, CSS, Javascript, Bootstrap & MERN Stack </span>
+            </ListGroup.Item>
+            <ListGroup.Item className="item">
+              <h2>Frameworks</h2>
+              <span>Spring Boot</span>
+              <span>Struts 2</span>
+            </ListGroup.Item>
+            <ListGroup.Item className="item">
+              <h2>Unit Testing Framework</h2>
+              <span>C++ Google Test & JUnit</span>
             </ListGroup.Item>
             <ListGroup.Item className="item">
               <h2>Database</h2>
-              <span>MongoDB, MS Access and MySQL</span>
+              <span>MongoDB, MS SQL, MS Access and MySQL</span>
+            </ListGroup.Item>
+            <ListGroup.Item className="item">
+              <h2>Operating Systems</h2>
+              <span>Ubuntu, RedHat and Amazon Web Services (AWS)</span>
+            </ListGroup.Item>
+            <ListGroup.Item className="item">
+              <h2>Automation Testing Tools</h2>
+              <span>Selenium, Selenium WebDriver & Katalon Studio</span>
+            </ListGroup.Item>
+            <ListGroup.Item className="item">
+              <h2>Version Control</h2>
+              <span>Git & Tortoise SVN</span>
             </ListGroup.Item>
           </ListGroup>
         </Card>

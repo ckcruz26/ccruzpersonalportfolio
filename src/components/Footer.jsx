@@ -14,7 +14,7 @@ function Footer() {
             <Twitter/>
             <LinkedIn/>
         </div>
-        <p> &copy; 2023 ccruz.com</p>
+        <p> &copy; 2024 ccruz.com</p>
     </div>
   )
 }

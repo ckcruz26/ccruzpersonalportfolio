@@ -9,30 +9,38 @@ import "../styles/Experience.css"
 
 const experienceList = [
   {
-    name : "Embedded Systems",
+    name : "Vehicular Development",
     image : Pic1,
   },
   {
-    name : "Voice Over LTE",
+    name : "Voice Over LTE (Telco Project)",
     image : Pic2,
   },
   {
-    name : "CSV Audit",
+    name : "CSV Audit Powershell Script",
     image : Pic3
   },
   {
-    name : "In-house Management",
+    name : "In-house Management SQA Testing",
     image : Pic4
   },
   {
-    name : "Employee Seat Plan Management",
+    name : "Office Management System",
     image : Pic5
+  },{
+    name : "Quality Improvement SQA Testing (Web Development)"
+  },{
+    name : "System Migration (EDI Project)"
+  },{
+    name : "LTE Systems"
+  },{
+    name : "Digital Payment SQA Testing (Web Development)"
   }
 ]
 function Experience() {
   return (
     <div className="experience">
-        <h1 className='expTitle'>Development Experiences</h1>
+        <h1 className='expTitle'>Relevant Project Experiences</h1>
         <div className='expList'>
           {experienceList.map((experience) => {
             return <ExperienceItem name ={experience.name} image={experience.image}/>

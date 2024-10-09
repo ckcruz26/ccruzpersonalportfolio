@@ -38,11 +38,19 @@ function Timeline() {
          </VerticalTimelineElement>
          <VerticalTimelineElement 
         className='vertical-timeline-element--work'
-         date='2017-2021'
+         date='2021-2024'
          iconStyle={{background: "#474c55", color: "#fff"}}
          icon={<Work/>}>
           <h3 className='vertical-timeline-element-title'>Tsukiden Global Solutions Inc.</h3>
-          <p>Software Design Engineer (2021-Present)</p>
+          <p>Software Engineer I (2021-2024)</p>
+         </VerticalTimelineElement>
+         <VerticalTimelineElement 
+        className='vertical-timeline-element--work'
+         date='2024-Present'
+         iconStyle={{background: "#474c55", color: "#fff"}}
+         icon={<Work/>}>
+          <h3 className='vertical-timeline-element-title'>DSWD Field Office III</h3>
+          <p>Computer Programmer III - Software Quality Assurance Engineer (2024-Present)</p>
          </VerticalTimelineElement>
       </VerticalTimeline>
       </div>
